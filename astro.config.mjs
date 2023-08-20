@@ -12,7 +12,7 @@ import AstroPWA from "@vite-pwa/astro";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://astros.zank.studio",
+	site: "https://53c.co.za",
 	vite: {
 		define: {
 			__DATE__: `'${new Date().toISOString()}'`,
@@ -26,9 +26,9 @@ export default defineConfig({
 			config: {
 				backend: {
 					name: "github",
-					repo: "zankhq/astros",
+					repo: "data-88/53c-astro-cool",
 					branch: "main",
-					base_url: "https://astros.zank.studio",
+					base_url: "https://53c.co.za",
 					auth_endpoint: "/api/auth",
 				},
 				media_folder: "public/images",
@@ -133,8 +133,8 @@ export default defineConfig({
 			includeAssets: ["favicon.svg"],
 			registerType: "autoUpdate",
 			manifest: {
-				name: "Astros - Starter Template for Astro with Tailwind CSS",
-				short_name: "Astros",
+				name: "Security Services for Entire Organisations",
+				short_name: "Information Security",
 				theme_color: "#ffffff",
 				icons: [
 					{
