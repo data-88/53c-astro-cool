@@ -18,7 +18,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
 const resolvedImageWithDomain = new URL("/meta/opengraph.png", Astro.site).toString();
 
 // replaced dynamically
-const buildDate = __DATE__;
+const buildDate = __DATE__; // Fix this variable 
 
 const { title, lang = null } = Astro.props;
 
@@ -48,7 +48,7 @@ const makeTitle = title ? title + " | " + "53c" : "Information Security";
 				basic: {
 					url: canonicalURL,
 					type: "website",
-					title: `Information Security and Risk`,
+					title: `Information Security and Regulation`,
 					image: resolvedImageWithDomain,
 				},
 				image: {
