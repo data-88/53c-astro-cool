@@ -38,7 +38,7 @@ const faqs = [
 		description: "We use a risk-based approach which is informed by quantitative and qualitative intelligence. This allows us to create a unique and effective roadmap to guide your efforts.",
 	},
 	{
-		title: "I don't need decap CMS, how can I remove it?",
+		title: "I don't see any threats, why should I care?",
 		description: `In order to remove decap CMS you need to:
 					<ul style="list-style: inside;">
 						<li>Remove the netlify-cms pacakage <code>npm unistall astro-netlify-cms</code></li>
@@ -46,11 +46,11 @@ const faqs = [
 					</ul>`,
 	},
 	{
-		title: "How can I configure the decap CMS authentication with cloudflare?",
+		title: "How can I harden my servers?",
 		description: `To configure decap CMS with cloudflare follow this guide <a href="https://github.com/i40west/netlify-cms-cloudflare-pages" target="_blank">https://github.com/i40west/netlify-cms-cloudflare-pages</a>`,
 	},
 	{
-		title: "How can I configure the decap CMS authentication with netlify?",
+		title: "Where can I find more information about risk?",
 		description: `To configure decap CMS with netlify do the followings:
 					<ul style="list-style: inside;">
 						<li>Change NetlifyCMS config <code>config.backend.name</code> to git-gateway</li>
@@ -58,16 +58,16 @@ const faqs = [
 					</ul>`,
 	},
 	{
-		title: "How can I change the localization languages?",
+		title: "How can I protect my network?",
 		description: `In order to change the languages you have to change the languages in the file <code>astro-i18next.config.mjs</code> and in the netlifyCMS configuration on the file <code>astro.config.mjs</code> <br/>
 					Then change the locales files folders in <code>public/locales</code>`,
 	},
 	{
-		title: "What are the files in the funciotn folder used for?",
+		title: "What are the international best practises with regards to security?",
 		description: `These are cloudflare function that are used for the authentication to the decap CMS`,
 	},
 	{
-		title: "The build on cloudflare keep failing, why?",
+		title: "What is the next step to secure my system?",
 		description: `One of the problem could be that the Build system version is setted to version 1, make sure that version 2 is selected`,
 	}
 ];
