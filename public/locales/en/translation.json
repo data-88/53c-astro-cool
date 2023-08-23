@@ -22,15 +22,15 @@
 		"title": "Protect",
 		"subtitle": "Make sure your most valuable assets are protected.",
 		"description": "Identify risks and establish greater control over critical information, people and processes. Develop a defensive strategy and reduce your attack surface making your organisation less vulnerable to attacks.",
-		"astro": "Astro is the all-in-one web framework designed for speed. Pull your content from anywhere and deploy everywhere, all powered by your favorite UI components and libraries.",
-		"alpine": "Alpine is a rugged, minimal tool for composing behavior directly in your markup. Think of it like jQuery for the modern web. Plop in a script tag and get going.",
-		"tailwind": "A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.",
-		"localization": "An astro integration of i18next + some utility components to help you translate your astro websites!",
-		"light_dark_mode": "Light/Dark mode based on tailwind classes",
-		"giscus": "A comments system powered by GitHub Discussions. Let visitors leave comments and reactions on your website via GitHub!",
-		"decapcms": "Open source content management for your Git workflow",
-		"rss": "RSS feed generato da @astrojs/rss",
-		"articlegenerator": "Use AI to generate your articles posts"
+		"strategy": "Using game theory, scenario planning and incident response.",
+		"defend": "Alpine is a rugged, minimal tool for composing behavior directly in your markup. Think of it like jQuery for the modern web. Plop in a script tag and get going.",
+		"test": "A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.",
+		"train": "An astro integration of i18next + some utility components to help you translate your astro websites!",
+		"trust": "Light/Dark mode based on tailwind classes",
+		"philosphy": "A comments system powered by GitHub Discussions. Let visitors leave comments and reactions on your website via GitHub!",
+		"health": "Open source content management for your Git workflow",
+		"care": "RSS feed generato da @astrojs/rss",
+		"proactive": "Use AI to generate your articles posts"
 	},
 	"faq": {
 		"title": "Frequently Asked Questions"
