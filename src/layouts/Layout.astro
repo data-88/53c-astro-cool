@@ -20,6 +20,8 @@ const resolvedImageWithDomain = new URL("/meta/opengraph.png", Astro.site).toStr
 // replaced dynamically
 const buildDate = __DATE__; // Fix this variable 
 
+
+
 const { title, lang = null } = Astro.props;
 
 const makeTitle = title ? title + " | " + "53c" : "Information Security";
