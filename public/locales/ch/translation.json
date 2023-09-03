@@ -1,50 +1,50 @@
 {
 	"hero": {
-		"title": "Protect your organisation from cyber attacks.",
-		"subtitle": "We develop and manage tailored security solutions to mitigate damage.",
-		"globe_title": "Our dynamic, risk-based approach is trusted by international organisations",
-		"main_button_text": "Call us",
-		"secondary_button_text": "Animate this"
+		"title": "保护您的组织免受网络攻击。",
+		"subtitle": "我们开发并管理定制的安全解决方案以减轻损害。",
+		"globe_title": "我们的动态、风险导向的方法得到国际组织的信任",
+		"main_button_text": "给我们打电话",
+		"secondary_button_text": "使这个动画化"
 	},
 	"hero_animated": {
-		"secondary_button_text": "Don’t animate "
+		"secondary_button_text": "不要动画"
 	},
 	"header": {
-		"features": "Features",
-		"princing": "Pricing",
-		"blog": "Blog",
-		"contact": "Contacts",
-		"primary_button_text": "Sign up",
-		"secondary_button_text": "Login"
+		"features": "特点",
+		"pricing": "定价",
+		"blog": "博客",
+		"contacts": "联系方式",
+		"primary_button_text": "注册",
+		"secondary_button_text": "登录"
 	},
 	"features": {
-		"learn": "Learn more",
-		"title": "Defend",
-		"subtitle": "Secure your perimeter and protect your data",
-		"description": "Identify and control information, people and processes.",
-		"philosophy": "We learn and adapt fast.",
-		"strategy": "Using game theory, scenario planning and incident response.",
-		"train": "Latest information and training with malware samples from the field.",
-		"test": "We test applications, processes and controls",
-		"trust": "Trusted by local and international companies like Toyota, Emirates and HSBC.",
-		"health": "The digital ecosystem is constantly evolving and needs to be upported in able to perform",
-		"available": "Around the clock and around the world, we are ready.",
-		"care": "We put passion into our work.",
-		"proactive": "With dedicated threat intelligence personelle"
+		"learn": "了解更多",
+		"title": "捍卫",
+		"subtitle": "保护您的边界和数据安全",
+		"description": "识别和控制信息、人员和流程。",
+		"philosophy": "我们学习并快速适应。",
+		"strategy": "使用博弈论、情景规划和事件响应。",
+		"train": "提供来自现场恶意软件样本的最新信息和培训。",
+		"test": "我们测试应用程序、流程和控制措施",
+		"trust": "得到像丰田、阿联酋航空和汇丰银行等本地和国际公司的信任。",
+		"health": "数字生态系统不断发展，需要得到支持才能正常运作",
+		"available": "我们全天候、全球范围内都准备好。",
+		"care": "我们对工作充满激情。",
+		"proactive": "保持领先于其他参与者"
 	},
 	"faq": {
-		"title": "Frequently Asked Questions"
+		"title": "常见问题"
 	},
 	"newsletter": {
-		"title": "Subscribe to our newsletter",
-		"subtitle": "Get notified for all updates",
-		"input_placeholder": "Enter your email",
-		"button_text": "Subscribe",
-		"privacy": "We care about the protection of your data. Read our",
-		"privacy_link": "Privacy Policy."
+		"title": "订阅我们的通讯",
+		"subtitle": "获取所有更新通知",
+		"input_placeholder": "输入您的电子邮件",
+		"button_text": "订阅",
+		"privacy": "我们关心您数据的保护。阅读我们的",
+		"privacy_link": "隐私政策。"
 	},
 	"blog": {
-		"prev": "Prev",
-		"next": "Next"
+		"prev": "上一页",
+		"next": "下一页"
 	}
 }

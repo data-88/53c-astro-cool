@@ -1,50 +1,50 @@
 {
 	"hero": {
-		"title": "Protect your organisation from cyber attacks.",
-		"subtitle": "We develop and manage tailored security solutions to mitigate damage.",
-		"globe_title": "Our dynamic, risk-based approach is trusted by international organisations",
-		"main_button_text": "Call us",
-		"secondary_button_text": "Animate this"
+		"title": "Protégez votre organisation contre les cyberattaques.",
+		"subtitle": "Nous développons et gérons des solutions de sécurité sur mesure pour atténuer les dommages.",
+		"globe_title": "Notre approche dynamique basée sur les risques est approuvée par des organisations internationales",
+		"main_button_text": "Appelez-nous",
+		"secondary_button_text": "Animez ceci"
 	},
 	"hero_animated": {
-		"secondary_button_text": "Don’t animate "
+		"secondary_button_text": "Ne pas animer"
 	},
 	"header": {
-		"features": "Features",
-		"princing": "Pricing",
+		"features": "Fonctionnalités",
+		"pricing": "Tarification",
 		"blog": "Blog",
-		"contact": "Contacts",
-		"primary_button_text": "Sign up",
-		"secondary_button_text": "Login"
+		"contacts": "Contacts",
+		"primary_button_text": "S'inscrire",
+		"secondary_button_text": "Se connecter"
 	},
 	"features": {
-		"learn": "Learn more",
-		"title": "Defend",
-		"subtitle": "Secure your perimeter and protect your data",
-		"description": "Identify and control information, people and processes.",
-		"philosophy": "We learn and adapt fast.",
-		"strategy": "Using game theory, scenario planning and incident response.",
-		"train": "Latest information and training with malware samples from the field.",
-		"test": "We test applications, processes and controls",
-		"trust": "Trusted by local and international companies like Toyota, Emirates and HSBC.",
-		"health": "The digital ecosystem is constantly evolving and needs to be upported in able to perform",
-		"available": "Around the clock and around the world, we are ready.",
-		"care": "We put passion into our work.",
-		"proactive": "With dedicated threat intelligence personelle"
+		"learn": "En savoir plus",
+		"title": "Défendre",
+		"subtitle": "Sécurisez votre périmètre et protégez vos données",
+		"description": "Identifiez et contrôlez les informations, les personnes et les processus.",
+		"philosophy": "Nous apprenons et nous adaptons rapidement.",
+		"strategy": "Utilisation de la théorie des jeux, de la planification de scénarios et de la gestion des incidents.",
+		"train": "Informations et formation de pointe avec des échantillons de logiciels malveillants du terrain.",
+		"test": "Nous testons les applications, les processus et les contrôles",
+		"trust": "Fait confiance à des entreprises locales et internationales telles que Toyota, Emirates et HSBC.",
+		"health": "L'écosystème numérique évolue constamment et doit être soutenu pour fonctionner",
+		"available": "Disponibles 24 heures sur 24 et dans le monde entier, nous sommes prêts.",
+		"care": "Nous mettons de la passion dans notre travail.",
+		"proactive": "Être en avance sur les autres joueurs"
 	},
 	"faq": {
-		"title": "Frequently Asked Questions"
+		"title": "Questions fréquemment posées"
 	},
 	"newsletter": {
-		"title": "Subscribe to our newsletter",
-		"subtitle": "Get notified for all updates",
-		"input_placeholder": "Enter your email",
-		"button_text": "Subscribe",
-		"privacy": "We care about the protection of your data. Read our",
-		"privacy_link": "Privacy Policy."
+		"title": "Abonnez-vous à notre newsletter",
+		"subtitle": "Recevez des notifications pour toutes les mises à jour",
+		"input_placeholder": "Entrez votre adresse e-mail",
+		"button_text": "S'abonner",
+		"privacy": "Nous nous soucions de la protection de vos données. Lisez notre",
+		"privacy_link": "Politique de confidentialité."
 	},
 	"blog": {
-		"prev": "Prev",
-		"next": "Next"
+		"prev": "Précédent",
+		"next": "Suivant"
 	}
 }

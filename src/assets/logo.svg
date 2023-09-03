@@ -6,11 +6,15 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 1763.5 1763.5"
-   style="enable-background:new 0 0 1763.5 1763.5;"
+   viewBox="0 0 1756.4809 731.27788"
    xml:space="preserve"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="53c-logo.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="new-logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   width="1756.481"
+   height="731.27789"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -31,14 +35,14 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="0.45477743"
-   inkscape:cx="678.3538"
-   inkscape:cy="881.75"
+   inkscape:cx="529.92955"
+   inkscape:cy="859.76122"
    inkscape:window-width="1920"
    inkscape:window-height="974"
    inkscape:window-x="-11"
    inkscape:window-y="-11"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="layer1" />
 <style
    type="text/css"
    id="style2">
@@ -48,10 +52,10 @@
    id="SVGID_1_"
    gradientUnits="userSpaceOnUse"
    x1="77.5448"
-   y1="645.1022"
+   y1="645.10217"
    x2="1742.8217"
    y2="1119.2615"
-   gradientTransform="matrix(1 0 0 -1 0 1761.9454)">
+   gradientTransform="matrix(1,0,0,-1,0,1761.9454)">
 	<stop
    offset="9.701765e-04"
    style="stop-color:#3638AE"
@@ -68,16 +72,16 @@
 
 <g
    id="layer1"
-   transform="matrix(7.2310154,0,0,7.2310154,181.25744,483.54085)"
+   transform="matrix(7.2310154,0,0,7.2310154,48.63404,-48.859854)"
    inkscape:export-filename=".\sm.svg"
    inkscape:export-xdpi="12.969586"
    inkscape:export-ydpi="12.969586"><text
      xml:space="preserve"
-     transform="matrix(1.0993402,0,0,1.0993402,-284.72706,-489.7081)"
+     transform="matrix(1.6369147,0,0,1.6369147,-456.51499,-738.18747)"
      id="text500"
-     style="font-weight:900;font-size:85.3333px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';white-space:pre;shape-inside:url(#rect502);display:inline;fill:#000000;stroke:#000000;stroke-width:4.6;stroke-dasharray:none;stroke-dashoffset:28.8404;stroke-opacity:1"><tspan
+     style="font-weight:900;font-size:85.3333px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';white-space:pre;shape-inside:url(#rect502);display:inline;fill:#000009;fill-opacity:0.773218;stroke:#000000;stroke-width:4.6;stroke-dasharray:none;stroke-dashoffset:28.8404;stroke-opacity:1"><tspan
        x="270"
-       y="517.15153"
-       id="tspan4693"><tspan
-         style="font-weight:bold;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended Bold'"
-         id="tspan4691">53C</tspan></tspan></text></g></svg>
+       y="515.84788"
+       id="tspan902"><tspan
+         style="font-family:Overpass;-inkscape-font-specification:'Overpass Heavy';stroke:none"
+         id="tspan900">53C</tspan></tspan></text></g></svg>

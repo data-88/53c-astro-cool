@@ -35,7 +35,7 @@ export default defineConfig({
 				public_folder: "/images",
 				i18n: {
 					structure: "multiple_folders",
-					locales: ["en", "it"],
+					locales: ["en", "it", "ru", "ch", "fr", "ar"],
 					default_locale: "en",
 				},
 				collections: [
@@ -133,7 +133,7 @@ export default defineConfig({
 			includeAssets: ["favicon.svg"],
 			registerType: "autoUpdate",
 			manifest: {
-				name: "Security Services for Entire Organisations",
+				name: "53C",
 				short_name: "Information Security",
 				theme_color: "#ffffff",
 				icons: [

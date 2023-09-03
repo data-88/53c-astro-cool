@@ -2,7 +2,8 @@
 import { LanguageSelector } from "astro-i18next/components";
 import { Icon } from "astro-icon";
 
-const { icon = "", languageMapping = { en: "English", it: "Italiano" }, ...rest } = Astro.props;
+const { icon = "", languageMapping = { 
+	en: "English", it: "Italian", ar: "Arabic", ru: "Russian", ch: "Chinese", fr: "French" }, ...rest } = Astro.props;
 ---
 
 <div
