@@ -1,5 +1,5 @@
 ---
-title: The Power and Potential of ChatGPT
+title: Protecting personal information
 draft: false
 author: Jon Doe
 tags:
@@ -33,9 +33,9 @@ ChatGPT's power lies in its versatility and impressive capabilities. Its potenti
 
 In customer service and sales, it can handle routine queries, freeing up human employees to tackle more complex tasks. In education, it can offer personalized learning experiences, answering student's questions in a dynamic, adaptive manner.
 
-## Limitations and Ethical Considerations
+## Look on the dark web for password breeches
 
-Like any AI, ChatGPT isn't perfect. It sometimes writes incorrect or nonsensical answers, and it's sensitive to the input phrasing. It doesn't refuse inappropriate requests as reliably as it should and sometimes responds to harmful instructions or exhibits biased behavior.
+LYou can do this through a site called:
 
 OpenAI has established strong guidelines and feedback mechanisms to minimize these issues. They are dedicated to improving ChatGPT over time, addressing its limitations, and refining its ability to reject inappropriate requests.
 

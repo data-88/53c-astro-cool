@@ -1,22 +1,20 @@
 ---
-title: "Introducing Decap CMS Your Goto Solution for Content Management"
+title: "How to make your cell phone safer"
 draft: false
-author: Jon Doe
+author: Andrew
 tags:
   - decapcms
 image:
   src: /images/decapcms.png
   alt: Decap CMS
-snippet: Decap CMS, formerly known as Netlify CMS, is an open-source content
-  management system offering developers a seamless way to manage content for
-  static site generators.
+snippet: Parents want to know how to keep their kids safe online.
 publishDate: 2023-07-01 23:14
 category: Tutorials
 ---
 
 Decap CMS, formerly known as Netlify CMS, is an open-source content management system that offers developers a seamless way to manage content for static site generators.
 
-## What is Decap CMS?
+## Uninstall apps that you don't use
 
 Decap CMS is a Git-based CMS that allows developers and content creators to add, update, and delete content directly from the git repo of the site. This provides the benefits of version controlled content, allowing for easy rollbacks, branching, and other Git operations.
 
