@@ -1,12 +1,12 @@
 ---
 title: "How to make your cell phone safer"
 draft: false
-author: Andrew
+author: Staff
 tags:
   - decapcms
 image:
   src: /images/decapcms.png
-  alt: Decap CMS
+  alt: Cell phone safety
 snippet: Parents want to know how to keep their kids safe online.
 publishDate: 2023-07-01 23:14
 category: Tutorials

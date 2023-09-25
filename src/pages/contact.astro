@@ -12,23 +12,23 @@ changeLanguage("en");
 let contacts = [
     {
         title: "Business Development",
-        email: "andrew@53c.co.za",
-        phone: "+27 (72) 9418482",
+        email: "info@53c.co.za",
+        phone: "+27 (72) 000000",
     },
     {
         title: "Human Resources",
         email: "hr@53c.co.za",
-        phone: "+27 (72) 9418482",
+        phone: "+27 (00) 000000",
     },
     {
         title: "Support",
         email: "accounts@53c.co.za",
-        phone: "+27 (72) 9418482",
+        phone: "+27 (00) 000000",
     },
     {
         title: "Research and Development",
         email: "research@53c.co.za",
-        phone: "+27 (72) 9418482",
+        phone: "+27 (00) 000000",
     },
 ];
 ---
@@ -39,6 +39,16 @@ let contacts = [
 			<Fragment slot="title">Contact</Fragment>
 			<Fragment slot="desc">Get in Touch.</Fragment>
 		</Sectionhead>
+		<Container text-center>
+			<form action="https://api.telegram.org/bot6621805204:AAHK52smQHMcfaStNuZTFpvhipLGArxZgc0/sendMessage">
+				<input type="hidden" name="chat_id" value="754825951">
+				<p> Initiate a conversation with the 53C telegram bot by sending a message. On submit it will show the JSON response from telegram API. </p>
+				<input style="background:#b1b1b1" type="text" name="text" value="Your message">
+				<Button>
+				<input class="button" type="submit">
+				</Button>
+				</form>
+		</Container>
 
 		<div class="py-24 sm:py-32">
 			<div class="mx-auto max-w-7xl px-6 lg:px-8">
