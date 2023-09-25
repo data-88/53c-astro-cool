@@ -133,8 +133,8 @@ export default defineConfig({
 			includeAssets: ["favicon.svg"],
 			registerType: "autoUpdate",
 			manifest: {
-				name: "53C",
-				short_name: "Information Security",
+				name: "53C Information Security",
+				short_name: "53C",
 				theme_color: "#ffffff",
 				icons: [
 					{

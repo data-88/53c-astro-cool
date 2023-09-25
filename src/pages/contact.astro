@@ -39,16 +39,16 @@ let contacts = [
 			<Fragment slot="title">Contact</Fragment>
 			<Fragment slot="desc">Get in Touch.</Fragment>
 		</Sectionhead>
-		<Container text-center>
+		<div class="flex gap-x-4">
 			<form action="https://api.telegram.org/bot6621805204:AAHK52smQHMcfaStNuZTFpvhipLGArxZgc0/sendMessage">
 				<input type="hidden" name="chat_id" value="754825951">
 				<p> Initiate a conversation with the 53C telegram bot by sending a message. On submit it will show the JSON response from telegram API. </p>
-				<input style="background:#b1b1b1" type="text" name="text" value="Your message">
+				<input class="min-w-0 flex-auto rounded-md border-0 px-3.5 py-2 text-gray-900 dark:text-gray-100 dark:bg-stone-950 shadow-sm ring-1 ring-inset ring-gray-300 dark:placeholder:text-gray-100 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" style="background:#b1b1b1" type="text" name="text" value="Your message">
 				<Button>
 				<input class="button" type="submit">
 				</Button>
 				</form>
-		</Container>
+		</div>
 
 		<div class="py-24 sm:py-32">
 			<div class="mx-auto max-w-7xl px-6 lg:px-8">
